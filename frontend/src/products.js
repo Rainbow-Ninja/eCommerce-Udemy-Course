@@ -74,7 +74,7 @@ const products = [
     category: 'Medium Kitty',
     price: 99.99,
     countInStock: 0,
-    rating: 4.8,
+    rating: 4.0,
     numReviews: 12,
   },
 ]

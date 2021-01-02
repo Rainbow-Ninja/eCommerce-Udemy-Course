@@ -1,0 +1,23 @@
+{
+  "name": "ecommercemern",
+  "version": "1.0.0",
+  "description": "MERN shopping",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rainbow-Ninja/eCommerce-Udemy-Course.git"
+  },
+  "author": "Jo Dunham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rainbow-Ninja/eCommerce-Udemy-Course/issues"
+  },
+  "homepage": "https://github.com/Rainbow-Ninja/eCommerce-Udemy-Course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

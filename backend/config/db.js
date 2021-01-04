@@ -8,9 +8,9 @@ const connectDB = async () => {
             useCreateIndex: true
         }) //pass these in to avoid warnings with mongoose
 
-        console.log(`MongoDB Connected: ${conn.connection.host}`)
+        console.log(`MongoDB Connected: ${conn.connection.host}`.cyan.underline)
     } catch (error) {
-        console.error(`Error: ${error.message}`)
+        console.error(`Error: ${error.message}`.red.underline.bold)
         process.exit(1)
     }
 }

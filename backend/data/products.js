@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Kevin',
     image: '/images/kitty1.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Squeak',
     image: '/images/kitty2.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Belford',
     image: '/images/kitty3.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Pixie',
     image: '/images/kitty4.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Shamrock',
     image: '/images/kitty5.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'The Captain',
     image: '/images/kitty6.jpg',
     description:
